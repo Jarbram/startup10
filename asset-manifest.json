@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/StartUp10g/static/css/main.f97fb17d.css",
+    "main.js": "/StartUp10g/static/js/main.40ee8ca2.js",
+    "static/js/787.d07b30b9.chunk.js": "/StartUp10g/static/js/787.d07b30b9.chunk.js",
+    "static/media/bg.jpg": "/StartUp10g/static/media/bg.4b8a573983a33eeca73a.jpg",
+    "static/media/2.png": "/StartUp10g/static/media/2.cf30a943474df338f2b7.png",
+    "static/media/1.png": "/StartUp10g/static/media/1.6943d948bdf278498ede.png",
+    "static/media/3.png": "/StartUp10g/static/media/3.77ae9c7586b032b6f53c.png",
+    "static/media/UDEP.png": "/StartUp10g/static/media/UDEP.1341ebb47cdcc08f7d7d.png",
+    "static/media/HUB.png": "/StartUp10g/static/media/HUB.13ab4bdf5b02e3104fd9.png",
+    "static/media/Logo Hub colores - extendido.png": "/StartUp10g/static/media/Logo Hub colores - extendido.482f260fc6929053e31a.png",
+    "static/media/SUP10G.png": "/StartUp10g/static/media/SUP10G.9d4e86c981709ecb1b78.png",
+    "static/media/proinnovate.png": "/StartUp10g/static/media/proinnovate.92f3725a2ab2af4bbade.png",
+    "index.html": "/StartUp10g/index.html",
+    "main.f97fb17d.css.map": "/StartUp10g/static/css/main.f97fb17d.css.map",
+    "main.40ee8ca2.js.map": "/StartUp10g/static/js/main.40ee8ca2.js.map",
+    "787.d07b30b9.chunk.js.map": "/StartUp10g/static/js/787.d07b30b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f97fb17d.css",
+    "static/js/main.40ee8ca2.js"
+  ]
+}
