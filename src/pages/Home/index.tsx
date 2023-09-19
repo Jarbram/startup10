@@ -6,6 +6,7 @@ import { IncrementalCounter } from '../../common/counter';
 import Calendar from '../../common/table';
 import Team from '../../common/team';
 import FaqAccordion from '../../common/term';
+import VideoEmbed from '../../common/video';
 
 export const HomePage: React.FC = () => {
 
@@ -78,11 +79,12 @@ export const HomePage: React.FC = () => {
           <Button
             variant="contained"
             sx={{
-              width: '200px',
-              height: '40px',
+              width: '300px',
+              height: '80px',
               marginTop: '15px',
               backgroundColor: '#FBBB21',
               fontWeight: 'bold',
+              fontSize: '1.2rem',
               '&:hover': {
                 backgroundColor: '#FBBB21', // Cambio de color al pasar el cursor
                 opacity: 0.9, // Cambio de opacidad al pasar el cursor
@@ -152,6 +154,8 @@ export const HomePage: React.FC = () => {
             marginTop: '15px',
             backgroundColor: '#FBBB21',
             fontWeight: 'bold',
+            fontSize: '0.9rem',
+            lineHeight: '1.2rem',
             '&:hover': {
               backgroundColor: '#FBBB21', // Cambio de color al pasar el cursor
               opacity: 0.9, // Cambio de opacidad al pasar el cursor
@@ -167,6 +171,7 @@ export const HomePage: React.FC = () => {
       <IncrementalCounter />
       <Calendar />
       <Team />
+      <VideoEmbed />
       <FaqAccordion />
     </Container>
   );
