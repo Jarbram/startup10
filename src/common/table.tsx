@@ -9,7 +9,7 @@ const Calendar: React.FC = () => {
           color="#2B81B5"
           sx={{ textAlign: 'center', fontSize: '1rem', fontWeight: 'bold'}}
           >
-            PROGRAMA GRATUITO DE PREPARACIÓN SUP 10G
+            PROGRAMA GRATUITO DE PREPARACIÓN STARTUP PERÚ 10G
       </Typography>
       <Table>
         <TableHead>
@@ -51,7 +51,7 @@ const Calendar: React.FC = () => {
 const calendarData = [
   {
     description: 'Taller 1: Conceptos y guía de postulación',
-    dates: 'Jueves 28/09',
+    dates: 'Martes 05/10',
   },
   {
     description: 'Asesoría 1: Diagnóstico de la startup',
