@@ -1,7 +1,7 @@
 {
   "name": "startup10",
   "version": "0.1.0",
-  "homepage": "https://jarbram.github.io/startup10",
+  "homepage": "https://startup10.hub.udep.pe",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -36,7 +36,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && echo startup10.hub.udep.pe > ./build/CNAME ",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
