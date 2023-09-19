@@ -48,30 +48,30 @@ export const HomePage: React.FC = () => {
           }}  />
           <Grid container justifyContent="center" alignItems="center" gap={3}>
             <Grid item>
-              <Typography sx={{ textAlign: 'center', color: '#ffffff',fontSize:'1.3rem' }}>
-                Emprendimientos innovadores
-              </Typography>
               <Typography
-                variant="h5"
+                variant="h4"
                 color="#fbbb21"
                 sx={{ textAlign: 'center', fontWeight: 'bold' }}
               >
                 S/. 67,000 
               </Typography>
+              <Typography sx={{ textAlign: 'center', color: '#ffffff',fontSize:'1.3rem' }}>
+                Para Emprendimientos Innovadores
+              </Typography>
             </Grid>
             <Grid item>
               <Typography
-                maxWidth="sm"
-                sx={{ textAlign: 'center', color: '#ffffff',fontSize:'1.3rem' }}
-              >
-                Emprendimientos dinámicos
-              </Typography>
-              <Typography
-                variant="h5"
+                variant="h4"
                 color="#fbbb21"
                 sx={{ textAlign: 'center', fontWeight: 'bold' }}
               >
                 S/. 150,000 
+              </Typography>
+              <Typography
+                maxWidth="sm"
+                sx={{ textAlign: 'center', color: '#ffffff',fontSize:'1.3rem' }}
+              >
+                Para Emprendimientos Dinámicos
               </Typography>
             </Grid>
           </Grid>

@@ -37,6 +37,33 @@ const FaqAccordion: React.FC = () => {
       question: '¿Cómo puedo ser respaldado por Hub UDEP?',
       answer: 'Hub UDEP lleva a cabo este programa con el objetivo de escoger a las startups de alto rendimiento para ser respaldadas en el concurso.',
     },
+    {
+      question: '¿Dónde encuentro las bases del concurso?',
+      answer: (
+        <div>
+        <p>
+          <a href="https://startup.proinnovate.gob.pe/concursos/emprendimientos-innovadores/" target="_blank" rel="noopener noreferrer">
+            Emprendedores tipo startup innovadores
+          </a>
+        </p>
+        <p>
+          <a href="https://startup.proinnovate.gob.pe/concursos/emprendimientosdinamicos/" target="_blank" rel="noopener noreferrer">
+            Emprendedores tipo startup dinámicos
+          </a>
+        </p>
+        <p>
+          <a href="https://startup.proinnovate.gob.pe/concursos/emprendimientos-innovadores/" target="_blank" rel="noopener noreferrer">
+            Emprendedores frente al cambio climático - innovadores
+          </a>
+        </p>
+        <p>
+          <a href="https://cambioclimatico.proinnovate.gob.pe/concurso/emprendimientos-dinamicos/" target="_blank" rel="noopener noreferrer">
+            Emprendedores frente al cambio climático - dinámicos
+          </a>
+        </p>
+      </div>
+      ),
+    },
   ];
 
   return (

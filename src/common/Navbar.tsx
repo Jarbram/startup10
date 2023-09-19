@@ -28,10 +28,16 @@ export const Navbar: React.FC<{}> = () => {
                 sx={{ cursor: 'pointer' }}
                 onClick={() => navigate('/')}
               >
-                <img src={UDEP} alt="logo" width="auto" height="50px" />
+                <img src={UDEP} alt="logo" width="auto" height="50px" style={{
+             maxWidth: '100%', 
+             maxHeight: '300px',
+          }} />
               </Grid>
               <Grid item >
-                <img src={HUB} alt="logo" width="auto" height="45px" />
+                <img src={HUB} alt="logo" width="auto" height="40px" style={{
+             maxWidth: '100%', 
+             maxHeight: '280px',
+          }} />
               </Grid>
             </Grid>
           </Container>
