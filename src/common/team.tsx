@@ -21,11 +21,11 @@ const Team: React.FC = () => {
       linkedin: 'https://www.linkedin.com/in/alex-zapata/',
     },
     {
-      name: 'Milagros Pasache',
-      role: 'Administradora del Hub UDEP',
-      description: 'Presupuesto y Administración',
+      name: 'Alan Espinoza',
+      role: 'CEO Inca Valley',
+      description: 'Presupuesto y Documentación',
       imageSrc: Img3,
-      linkedin: 'https://www.linkedin.com/in/milagros-pasache-araujo-b6049840/',
+      linkedin: 'https://www.linkedin.com/in/alaninnovat/',
     },
   ];
 
