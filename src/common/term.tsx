@@ -52,7 +52,7 @@ const FaqAccordion: React.FC = () => {
           </a>
         </p>
         <p>
-          <a href="https://startup.proinnovate.gob.pe/concursos/emprendimientos-innovadores/" target="_blank" rel="noopener noreferrer">
+          <a href="https://cambioclimatico.proinnovate.gob.pe/concurso/emprendimiento-innovadores/" target="_blank" rel="noopener noreferrer">
             Emprendedores frente al cambio climático - innovadores
           </a>
         </p>
