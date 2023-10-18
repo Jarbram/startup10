@@ -22,13 +22,6 @@ const Team: React.FC = () => {
       description: 'Talleres y Asesorías',
       imageSrc: Img2,
       linkedin: 'https://www.linkedin.com/in/alex-zapata/',
-    },
-    {
-      name: 'Alan Espinoza',
-      role: 'CEO Inca Valley',
-      description: 'Presupuesto y Documentación',
-      imageSrc: Img3,
-      linkedin: 'https://www.linkedin.com/in/alaninnovat/',
     }
   ];
 
